@@ -42,6 +42,6 @@ In conjunction with the Instagram account, I started a curated Amazon storefront
 In 2022, I strengthened user engagement through launching a Patreon community. Member bonuses include a *Kindle 101* ebook with how-to guides and explanations to empower users to get the most of their Kindles.
 
 
-### Some Places I've Lived
+## Some Places I've Lived
 
 I grew up in South Dakota. From there, I attended college in Washington, DC and studied abroad in Florence and London. I have lived in New York City since 2008.

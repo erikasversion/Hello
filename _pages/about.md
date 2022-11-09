@@ -35,7 +35,7 @@ I have a BAs in English and Psychology from Georgetown University in Washington,
 
 ## Additional Experience
 
-In 2020, I created a book-focused Instagram account. Today, it has over 11,000 followers. I've also seen the account mentioned by strangers on Reddit, which is pretty cool ☺️
+In 2020, I created a book-focused Instagram account. Today, it has over 11,000 followers. I've also seen the account mentioned by strangers on Reddit, which is pretty cool!
 
 In conjunction with the Instagram account, I started a curated Amazon storefront featuring discounted ebooks. My storefront has generated $159,373.44 of shipped item revenue YTD.
 

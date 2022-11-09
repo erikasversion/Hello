@@ -8,7 +8,7 @@ I bring over a decade of experience writing and teaching to technical writing.
 
 I'm excited about this new stage of my career.
 
-I'm also a big reader. Did you know that the sci-fi writer Ted Chiang is also a tech writer? ☺️
+I'm also a big reader. Did you know that the sci-fi writer Ted Chiang is also a tech writer?
 
 
 ### Contact me

@@ -10,7 +10,7 @@ I am committed to building my technical savvy so that I can hit the ground runni
 
 Here are some of the resources I am using.
 
-*Feel free to [send me your recommended resources.](mailto:erikasversion@gmail.com)*
+Know of something else I should check out? [Send me your recommended resources :)](mailto:erikasversion@gmail.com)
 
 ## Free Resources
 
@@ -22,3 +22,4 @@ Here are some of the resources I am using.
 ## Paid Resources
 
 - [Tech Writer HQ Certificate in Tech Writing](https://technicalwriterhq.com)
+    - Read my thoughts on the Tech Writer HQ Certificate Course [here](https://erikasversion.github.io/hello/technical-writer-hq/).

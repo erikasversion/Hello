@@ -4,7 +4,7 @@ title: "My Thoughts on Technical Writer HQ's Technical Writing Certification Cou
 permalink: /technical-writer-hq/
 ---
 
-I enrolled in [Technical Writer HQ's Technical Writing Certificate Course](https://technicalwriterhq.com) because I wanted to gain exposure to the kinds of writing I may do as a technical writer.
+I enrolled in [Technical Writer HQ's Technical Writing Certification Course](https://technicalwriterhq.com) because I wanted to gain exposure to the kinds of writing I may do as a technical writer.
 
 As I watched the videos, I took over 80 pages of notes on the course content.
 

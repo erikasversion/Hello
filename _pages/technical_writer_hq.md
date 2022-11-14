@@ -16,7 +16,7 @@ As I watched the videos, I took over 80 pages of notes on the course content.
 * They offer feedback on a capstone project, which can be used as a portfolio when applying to jobs.
 
 ### Some things I didn't like:
-* While Josh's delivery was friendly, it sometimes came off stilted.
+* While Josh's delivery was friendly, it sometimes came off as stilted.
 * Few written notes or outlines accompanied the videos and the videos weren't closed captioned.
 
 ### Some things I noticed:

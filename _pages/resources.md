@@ -24,4 +24,4 @@ Know of something else I should check out? [Email me your recommended resources 
 ## Paid Resources
 
 - [Technical Writer HQ Certificate in Technical Writing](https://technicalwriterhq.com)
-    - Read my thoughts on the Technical Writer HQ's Technical Writing Certificatation Course [here](https://erikasversion.github.io/hello/technical-writer-hq/).
+    - [Read my thoughts](https://erikasversion.github.io/hello/technical-writer-hq/) on the Technical Writer HQ's Technical Writing Certificatation Course.

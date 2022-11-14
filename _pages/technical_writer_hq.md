@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "My Thoughts on Technical Writer HQ's Technical Writing Certificatation Course"
+title: "My Thoughts on Technical Writer HQ's Technical Writing Certification Course"
 permalink: /technical-writer-hq/
 ---
 

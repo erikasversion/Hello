@@ -21,5 +21,5 @@ Know of something else I should check out? [Send me your recommended resources :
 
 ## Paid Resources
 
-- [Tech Writer HQ Certificate in Tech Writing](https://technicalwriterhq.com)
-    - Read my thoughts on the Tech Writer HQ Certificate Course [here](https://erikasversion.github.io/hello/technical-writer-hq/).
+- [Technical Writer HQ Certificate in Technical Writing](https://technicalwriterhq.com)
+    - Read my thoughts on the Technical Writer HQ Technical Writing Certificatation Course [here](https://erikasversion.github.io/hello/technical-writer-hq/).

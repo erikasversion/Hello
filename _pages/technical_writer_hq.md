@@ -20,8 +20,8 @@ As I watched the videos, I took over 80 pages of notes on the course content.
 * Few written notes or outlines accompanied the videos and the videos weren't closed captioned.
 
 ### Some things I noticed:
-* Some of the content would have benefited from another round of copyediting.
-* Because I have a strong background teaching grammar rules and writing, I benefited more from the early content in the course ("Introduction to Technical Writing" and "Writing Great Technical Documentation") than later content ("Formatting your Technical Documentation," "Editing and Readability," and "Editing and Proofreading.") I imagine that for someone with a stronger background in tech, the opposite may be true. 
+* Some of the written content would have benefited from another round of copyediting.
+* Because of my background in teaching grammar rules and writing, I benefited more from the early content in the course ("Introduction to Technical Writing" and "Writing Great Technical Documentation") than later content ("Formatting your Technical Documentation," "Editing and Readability," and "Editing and Proofreading"). I imagine that for someone with a stronger background in tech, the opposite may be true. 
 
 Having finished the bulk of the videos, I'm looking forward to creating my capstone project but am also a little daunted by the prospect of finding writing opportunities.
 

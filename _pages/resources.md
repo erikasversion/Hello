@@ -10,7 +10,7 @@ I am committed to building my technical savvy so that I can hit the ground runni
 
 Here are some of the resources I am using.
 
-Know of something else I should check out? [Send me your recommended resources :)](mailto:erikasversion@gmail.com)
+Know of something else I should check out? [Email me your recommended resources :)](mailto:erikasversion@gmail.com)
 
 ## Free Resources
 

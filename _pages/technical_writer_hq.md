@@ -1,10 +1,9 @@
 ---
 layout: page
-title: "Technical Writer HQ Course in Technical Writing"
+title: "My Thoughts on Technical Writer HQ's Technical Writing Certificatation Course"
 permalink: /technical-writer-hq/
 ---
 
-# My Thoughts on Technical Writer HQ's Technical Writing Certificatation Course
 I enrolled in [Technical Writer HQ's Technical Writing Certificate Course](https://technicalwriterhq.com) because I wanted to gain exposure to the kinds of writing I may do as a technical writer.
 
 As I watched the videos, I took over 80 pages of notes on the course content.

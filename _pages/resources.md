@@ -6,11 +6,11 @@ permalink: /resources/
 
 
 
-***I am committed to building my technical savvy so that I can hit the ground running when working as a technical writer.***
+I am committed to building my technical savvy so that I can hit the ground running when working as a technical writer.
 
-***Here are some of the resources I am using.***
+Here are some of the resources I am using.
 
-***Feel free to [send me your recommended resources.](mailto:erikasversion@gmail.com)***
+*Feel free to [send me your recommended resources.](mailto:erikasversion@gmail.com)*
 
 ## Free Resources
 
